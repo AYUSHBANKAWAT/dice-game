@@ -1,0 +1,40 @@
+body{
+    background-color: #F5E9CF;
+    text-align: center;
+}
+.title{
+    font-family: 'Carter One', cursive;
+    font-size: 6rem;
+    color:  #4D455D;
+    margin: 5% 10%;
+    text-align: center;
+}
+.dice{
+    padding: 4px; 
+    height: 50%;
+    width: 50%;
+}
+.dice-pad{
+    text-align: center;
+    flex-wrap: wrap;
+    margin: 5% 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    padding: 5% 15%;
+    height: 30%;
+    font-family: 'Carter One', cursive;
+    color: #E96479;
+    font-size: 2rem;
+}
+.result-text{
+    text-align: center;
+    font-family: 'Carter One', cursive;
+    font-size: 3rem;
+    color:  #4D455D;
+    margin: 0 auto;
+    margin-bottom: 30%;
+    display: inline;
+}
